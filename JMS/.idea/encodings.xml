@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/clientmdbentity" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/clientmdbentity/clientmdbentity-appclient" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/clientmdbentity/clientmdbentity-ear" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/clientmdbentity/clientmdbentity-ejb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/clientsessionmdb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/clientsessionmdb/clientsessionmdb-appclient" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/clientsessionmdb/clientsessionmdb-ear" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/clientsessionmdb/clientsessionmdb-ejb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/durablesubscriptionexample" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/durablesubscriptionexample/durableconsumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/durablesubscriptionexample/unsubscriber" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shared" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shared/sharedconsumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shared/shareddurableconsumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/simple" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/simple/asynchconsumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/simple/clientackconsumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/simple/messagebrowser" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/simple/synchconsumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/simplemessage" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/simplemessage/simplemessage-appclient" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/simplemessage/simplemessage-ear" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/simplemessage/simplemessage-ejb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/transactedexample" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/transactedexample/genericsupplier" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/transactedexample/retailer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/transactedexample/vendor" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/websimplemessage" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

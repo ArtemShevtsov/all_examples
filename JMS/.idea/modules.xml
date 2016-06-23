@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/simple/asynchconsumer/asynchconsumer.iml" filepath="$PROJECT_DIR$/simple/asynchconsumer/asynchconsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple/clientackconsumer/clientackconsumer.iml" filepath="$PROJECT_DIR$/simple/clientackconsumer/clientackconsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clientmdbentity/clientmdbentity.iml" filepath="$PROJECT_DIR$/clientmdbentity/clientmdbentity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clientmdbentity/clientmdbentity-appclient/clientmdbentity-appclient.iml" filepath="$PROJECT_DIR$/clientmdbentity/clientmdbentity-appclient/clientmdbentity-appclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clientmdbentity/clientmdbentity-ear/clientmdbentity-ear.iml" filepath="$PROJECT_DIR$/clientmdbentity/clientmdbentity-ear/clientmdbentity-ear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clientmdbentity/clientmdbentity-ejb/clientmdbentity-ejb.iml" filepath="$PROJECT_DIR$/clientmdbentity/clientmdbentity-ejb/clientmdbentity-ejb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clientsessionmdb/clientsessionmdb.iml" filepath="$PROJECT_DIR$/clientsessionmdb/clientsessionmdb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clientsessionmdb/clientsessionmdb-appclient/clientsessionmdb-appclient.iml" filepath="$PROJECT_DIR$/clientsessionmdb/clientsessionmdb-appclient/clientsessionmdb-appclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clientsessionmdb/clientsessionmdb-ear/clientsessionmdb-ear.iml" filepath="$PROJECT_DIR$/clientsessionmdb/clientsessionmdb-ear/clientsessionmdb-ear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clientsessionmdb/clientsessionmdb-ejb/clientsessionmdb-ejb.iml" filepath="$PROJECT_DIR$/clientsessionmdb/clientsessionmdb-ejb/clientsessionmdb-ejb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/durablesubscriptionexample/durableconsumer/durableconsumer.iml" filepath="$PROJECT_DIR$/durablesubscriptionexample/durableconsumer/durableconsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/durablesubscriptionexample/durablesubscriptionexample.iml" filepath="$PROJECT_DIR$/durablesubscriptionexample/durablesubscriptionexample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/transactedexample/genericsupplier/genericsupplier.iml" filepath="$PROJECT_DIR$/transactedexample/genericsupplier/genericsupplier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jms.iml" filepath="$PROJECT_DIR$/jms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple/messagebrowser/messagebrowser.iml" filepath="$PROJECT_DIR$/simple/messagebrowser/messagebrowser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple/producer/producer.iml" filepath="$PROJECT_DIR$/simple/producer/producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/transactedexample/retailer/retailer.iml" filepath="$PROJECT_DIR$/transactedexample/retailer/retailer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shared/shared.iml" filepath="$PROJECT_DIR$/shared/shared.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shared/sharedconsumer/sharedconsumer.iml" filepath="$PROJECT_DIR$/shared/sharedconsumer/sharedconsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shared/shareddurableconsumer/shareddurableconsumer.iml" filepath="$PROJECT_DIR$/shared/shareddurableconsumer/shareddurableconsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple/simple.iml" filepath="$PROJECT_DIR$/simple/simple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simplemessage/simplemessage.iml" filepath="$PROJECT_DIR$/simplemessage/simplemessage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simplemessage/simplemessage-appclient/simplemessage-appclient.iml" filepath="$PROJECT_DIR$/simplemessage/simplemessage-appclient/simplemessage-appclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simplemessage/simplemessage-ear/simplemessage-ear.iml" filepath="$PROJECT_DIR$/simplemessage/simplemessage-ear/simplemessage-ear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simplemessage/simplemessage-ejb/simplemessage-ejb.iml" filepath="$PROJECT_DIR$/simplemessage/simplemessage-ejb/simplemessage-ejb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple/synchconsumer/synchconsumer.iml" filepath="$PROJECT_DIR$/simple/synchconsumer/synchconsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/transactedexample/transactedexample.iml" filepath="$PROJECT_DIR$/transactedexample/transactedexample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/durablesubscriptionexample/unsubscriber/unsubscriber.iml" filepath="$PROJECT_DIR$/durablesubscriptionexample/unsubscriber/unsubscriber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/transactedexample/vendor/vendor.iml" filepath="$PROJECT_DIR$/transactedexample/vendor/vendor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/websimplemessage/websimplemessage.iml" filepath="$PROJECT_DIR$/websimplemessage/websimplemessage.iml" />
+    </modules>
+  </component>
+</project>

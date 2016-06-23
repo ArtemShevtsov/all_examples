@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+      <entry name="!?*.aj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="archetypes" />
+        <module name="asynchconsumer" />
+        <module name="clientackconsumer" />
+        <module name="clientmdbentity-appclient" />
+        <module name="clientmdbentity-ear" />
+        <module name="clientmdbentity-ejb" />
+        <module name="clientsessionmdb-appclient" />
+        <module name="clientsessionmdb-ear" />
+        <module name="clientsessionmdb-ejb" />
+        <module name="durableconsumer" />
+        <module name="genericsupplier" />
+        <module name="messagebrowser" />
+        <module name="producer" />
+        <module name="retailer" />
+        <module name="sharedconsumer" />
+        <module name="shareddurableconsumer" />
+        <module name="simplemessage-appclient" />
+        <module name="simplemessage-ear" />
+        <module name="simplemessage-ejb" />
+        <module name="synchconsumer" />
+        <module name="unsubscriber" />
+        <module name="vendor" />
+        <module name="websimplemessage" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="archetypes" target="1.5" />
+      <module name="asynchconsumer" target="1.5" />
+      <module name="clientackconsumer" target="1.5" />
+      <module name="clientmdbentity" target="1.5" />
+      <module name="clientmdbentity-appclient" target="1.5" />
+      <module name="clientmdbentity-ear" target="1.5" />
+      <module name="clientmdbentity-ejb" target="1.5" />
+      <module name="clientsessionmdb" target="1.5" />
+      <module name="clientsessionmdb-appclient" target="1.5" />
+      <module name="clientsessionmdb-ear" target="1.5" />
+      <module name="clientsessionmdb-ejb" target="1.5" />
+      <module name="durableconsumer" target="1.5" />
+      <module name="durablesubscriptionexample" target="1.5" />
+      <module name="genericsupplier" target="1.5" />
+      <module name="jms" target="1.5" />
+      <module name="messagebrowser" target="1.5" />
+      <module name="producer" target="1.5" />
+      <module name="retailer" target="1.5" />
+      <module name="shared" target="1.5" />
+      <module name="sharedconsumer" target="1.5" />
+      <module name="shareddurableconsumer" target="1.5" />
+      <module name="simple" target="1.5" />
+      <module name="simplemessage" target="1.5" />
+      <module name="simplemessage-appclient" target="1.5" />
+      <module name="simplemessage-ear" target="1.5" />
+      <module name="simplemessage-ejb" target="1.5" />
+      <module name="synchconsumer" target="1.5" />
+      <module name="transactedexample" target="1.5" />
+      <module name="unsubscriber" target="1.5" />
+      <module name="vendor" target="1.5" />
+      <module name="websimplemessage" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
