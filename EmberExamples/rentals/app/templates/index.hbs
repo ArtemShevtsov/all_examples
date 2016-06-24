@@ -1,0 +1,18 @@
+<div class="jumbo">
+  <div class="right tomster"></div>
+  <h2>Welcome!</h2>
+  <p>
+    We hope you find exactly what you're looking for in a place to stay.
+    <br>Browse our listings, or use the search box above to narrow your search.
+  </p>
+</div>
+
+{{#list-filter filter=(action 'filterByName') as |actors|}}
+  <ul class="results">
+    {{#each actors as |actor|}}
+      <li class="actor">
+        {{actor-listing actor=actor}}
+      </li>
+    {{/each}}
+  </ul>
+{{/list-filter}}
